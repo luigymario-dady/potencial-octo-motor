@@ -1,2 +1,1 @@
-# potencial-octo-motor
-grado octavo 
+# proyecto-de-sistemas
